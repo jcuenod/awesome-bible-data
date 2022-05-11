@@ -73,14 +73,11 @@ Legend:
 
 ### Dictionaries
 
-[Jastrow/Klein Dictionaries](https://github.com/Sefaria/Sefaria-Data/tree/master/lexicon)
-
-**OT**
-- https://github.com/openscriptures/HebrewLexicon (BDB)
-
-**NT**
-- https://github.com/translatable-exegetical-tools/Abbott-Smith
-- [Jeffrey Dodson's Greek Lexicon](https://github.com/biblicalhumanities/Dodson-Greek-Lexicon)
+- [Jastrow/Klein Dictionaries](https://github.com/Sefaria/Sefaria-Data/tree/master/lexicon)
+- [Strongs](https://github.com/openscriptures/strongs) (OT + NT)
+- [BDB](https://github.com/openscriptures/HebrewLexicon) (OT)
+- [Abbott-Smith](https://github.com/translatable-exegetical-tools/Abbott-Smith) (NT)
+- [Jeffrey Dodson's Greek Lexicon](https://github.com/biblicalhumanities/Dodson-Greek-Lexicon) (NT)
 
 ### Cross References
 

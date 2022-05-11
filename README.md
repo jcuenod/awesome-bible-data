@@ -1,4 +1,4 @@
-# Awesome Bible Datasets [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Awesome Bible Datasets ![Awesome](https://awesome.re/badge-flat2.svg)
 
 Legend:
  - <icon> Morphologically Tagged

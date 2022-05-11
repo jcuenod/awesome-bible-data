@@ -1,8 +1,10 @@
 # Awesome Bible Datasets ![Awesome](https://awesome.re/badge-flat2.svg)
 
-Legend:
- - <icon> Morphologically Tagged
- - <icon> Syntax
+**Legend**:
+
+ - 🏷️  Morphologically Tagged
+ - 🌲 Syntax Trees
+ - 💬 Discourse
 
 ## Contents
 

@@ -21,8 +21,8 @@ Legend:
 
 #### Translations
 
-  - https://github.com/BibleNLP/ebible-corpus
-  - https://github.com/gratis-bible/bible
+  - [Curated corpus of parallel data derived from versions of the Bible provided by eBible.org](https://github.com/BibleNLP/ebible-corpus) (Verse per line txt)
+  - [Gratis Bible](https://github.com/gratis-bible/bible) (OSIS XML)
   - https://github.com/openenglishbible/Open-English-Bible
 
 #### Original Languages

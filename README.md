@@ -6,14 +6,15 @@ Legend:
 
 ## Contents
 
- - [Protestant Canon](#protestant-canon)
-   - [Translations](#translations)
-   - [Original Languages](#original-languages)
- - [Non-Canonical](#non-canonical)
-   - [Deuterocanonical](#deuterocanonical)
-   - [Qumran](#qumran)
-   - [Early Church](#early-church)
- - [Dictionaries](#dictionaries)
+- [Protestant Canon](#protestant-canon)
+  - [Translations](#translations)
+  - [Original Languages](#original-languages)
+- [Non-Canonical](#non-canonical)
+  - [Deuterocanonical](#deuterocanonical)
+  - [Qumran/Rabbinic](#qumranrabbinic)
+  - [Early Church](#early-church)
+- [Dictionaries](#dictionaries)
+- [Cross References](#cross-references)
 
 ## Datasets
 

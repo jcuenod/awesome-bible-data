@@ -32,8 +32,8 @@
 
   **OT**
   - https://github.com/openscriptures/morphhb/
-  - https://github.com/ETCBC/bhsa (TextFabric)
-  - https://github.com/Clear-Bible/macula-hebrew/
+  - https://github.com/ETCBC/bhsa (TextFabric) [🌲](## "Syntax Trees") [🏷️](## "Morphologically Tagged")
+  - https://github.com/Clear-Bible/macula-hebrew/ [🌲](## "Syntax Trees")
   - https://github.com/STEPBible/STEPBible-Data
   - [Peshitta](https://github.com/ETCBC/peshitta) (TextFabric)
 
@@ -51,8 +51,8 @@
   - https://github.com/STEPBible/STEPBible-Data
   - [Bunning Heuristic Prototype Greek New Testament](https://github.com/greekcntr/BHP)
   - [Syriac New Testament](https://github.com/etcbc/syrnt) (TextFabric)
-  - [Levinsohn's Greek New Testament Discourse Features](https://github.com/biblicalhumanities/levinsohn)
-  - [PROIEL Treebanks](https://github.com/proiel/proiel-treebank) (GNT, Vulgate, other NTs + more)
+  - [Levinsohn's Greek New Testament Discourse Features](https://github.com/biblicalhumanities/levinsohn) [💬](## "Discourse Analysis")
+  - [PROIEL Treebanks](https://github.com/proiel/proiel-treebank) (GNT, Vulgate, other NTs + more) [🌲](## "Syntax Trees")
   - [SBLGNT and Nestle1904](https://github.com/biblicalhumanities/greek-new-testament) with syntax trees by the Global Bible Initiative
   
 ### Non-Canonical

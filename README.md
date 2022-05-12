@@ -1,4 +1,4 @@
-# Awesome Bible Datasets ![Awesome](https://awesome.re/badge-flat2.svg)
+# Awesome Bible Data ![Awesome](https://awesome.re/badge-flat2.svg)
 
 Welcome! This is a curated list of data related to biblical research. For this reason it includes not only translations but tagged original language corpora as well as datasets that are Bible-adjacent (such as early church writings, and dictionaries).
 
@@ -20,7 +20,7 @@ Welcome! This is a curated list of data related to biblical research. For this r
 - [Dictionaries](#dictionaries)
 - [Cross References](#cross-references)
 
-## Datasets
+## Data
 
 ### Protestant Canon
 

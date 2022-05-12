@@ -28,7 +28,7 @@ Welcome! This is a curated list of data related to biblical research. For this r
 
   - [Parallel corpora from eBible.org](https://github.com/BibleNLP/ebible-corpus) (Verse per line txt). [source](https://eBible.org). - Made for use with NLP, not ideal for finding book/ch/v divisions.
   - [Gratis Bible](https://github.com/gratis-bible/bible) (OSIS XML)
-  - [Open English Bible](https://github.com/openenglishbible/Open-English-Bible) - A Bible translation is in the public domain(?)
+  - [Open English Bible](https://github.com/openenglishbible/Open-English-Bible) - A CC0 Bible translation.
   - [Unfolding Word Translations](https://git.door43.org/unfoldingWord/) - See esp. their [Literal Translation](https://git.door43.org/unfoldingWord/en_ult/), [Simplified Translation](https://git.door43.org/unfoldingWord/en_ust/). Resources developed for Bible translators.
 
 #### Original Languages
@@ -52,7 +52,7 @@ Welcome! This is a curated list of data related to biblical research. For this r
   - [NA1904 Tagged by MorphGNT](https://github.com/biblicalhumanities/Nestle1904/) [🏷️](## "Morphologically Tagged")
   - [Macula Greek](https://github.com/Clear-Bible/macula-greek) [🌲](## "Syntax Trees") [🏷️](## "Morphologically Tagged") - One of the most developed datasets. Combines multiple sources, with clear provenance!
   - [STEPBible Data](https://github.com/STEPBible/STEPBible-Data) [🏷️](## "Morphologically Tagged") - One of the most developed datasets!
-  - [Bunning Heuristic Prototype Greek New Testament](https://github.com/greekcntr/BHP) - An approach to construct a critical NT based on the earliest evidence
+  - [Bunning Heuristic Prototype Greek New Testament](https://github.com/greekcntr/BHP) - An approach to construct a critical NT based on the earliest evidence (?)
   - [Syriac New Testament](https://github.com/etcbc/syrnt) (TextFabric)
   - [Levinsohn's Greek New Testament Discourse Features](https://github.com/biblicalhumanities/levinsohn) [💬](## "Discourse Analysis")
   - [PROIEL Treebanks](https://github.com/proiel/proiel-treebank) (GNT, Vulgate, other NTs + more) [🌲](## "Syntax Trees")

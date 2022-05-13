@@ -78,7 +78,6 @@ Welcome! This is a curated list of data related to biblical research. For this r
 
 ### Dictionaries
 
-- [Jastrow/Klein Dictionaries](https://github.com/Sefaria/Sefaria-Data/tree/master/lexicon)
 - [Strongs](https://github.com/openscriptures/strongs) (OT + NT)
 - [BDB](https://github.com/openscriptures/HebrewLexicon) (OT)
 - [Abbott-Smith](https://github.com/translatable-exegetical-tools/Abbott-Smith) (NT)

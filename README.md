@@ -30,6 +30,7 @@ Biblical data including translations, tagged original language texts, second tem
   - [Gratis Bible](https://github.com/gratis-bible/bible) (OSIS XML)
   - [Open English Bible](https://github.com/openenglishbible/Open-English-Bible) - A CC0 Bible translation.
   - [Unfolding Word Translations](https://git.door43.org/unfoldingWord/) - See esp. their [Literal Translation](https://git.door43.org/unfoldingWord/en_ult/), [Simplified Translation](https://git.door43.org/unfoldingWord/en_ust/). Resources developed for Bible translators.
+  - [Bible corpus](https://github.com/christos-c/bible-corpus) - A multilingual parallel corpus created from translations of the Bible.
 
 #### Original Languages
 
@@ -45,7 +46,7 @@ Biblical data including translations, tagged original language texts, second tem
   - [STEPBible Data](https://github.com/STEPBible/STEPBible-Data) [🏷️](## "Morphologically Tagged") - one of the most developed datasets
   - [Swete's LXX](https://github.com/sleeptillseven/LXX-Swete/) Text from 1KY corrected [🏷️](## "Morphologically Tagged")
   - [LXX Codex Alexandrinus](https://github.com/sleeptillseven/LXX.Alex)
-  
+
   **NT**
   - [SBLGNT Tagged by MorphGNT](https://github.com/morphgnt/sblgnt) [🏷️](## "Morphologically Tagged")
   - [Byzantine Majority Text](https://github.com/byztxt/byzantine-majority-text) [🏷️](## "Morphologically Tagged")
@@ -57,7 +58,7 @@ Biblical data including translations, tagged original language texts, second tem
   - [Levinsohn's Greek New Testament Discourse Features](https://github.com/biblicalhumanities/levinsohn) [💬](## "Discourse Analysis")
   - [PROIEL Treebanks](https://github.com/proiel/proiel-treebank) (GNT, Vulgate, other NTs + more) [🌲](## "Syntax Trees")
   - [SBLGNT and Nestle1904](https://github.com/biblicalhumanities/greek-new-testament) with syntax trees by the Global Bible Initiative [🌲](## "Syntax Trees") [🏷️](## "Morphologically Tagged")
-  
+
 ### Non-Canonical
 #### Deuterocanonical
   - [Online-Critical-Pseudepigrapha](https://github.com/OnlineCriticalPseudepigrapha/Online-Critical-Pseudepigrapha) - multiple versions of the Pseudepigrapha, powering <http://pseudepigrapha.com>

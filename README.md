@@ -32,6 +32,7 @@ Biblical data including translations, tagged original language texts, second tem
   - [Open English Bible](https://github.com/openenglishbible/Open-English-Bible) - A CC0 Bible translation.
   - [Unfolding Word Translations](https://git.door43.org/unfoldingWord/) - See esp. their [Literal Translation](https://git.door43.org/unfoldingWord/en_ult/), [Simplified Translation](https://git.door43.org/unfoldingWord/en_ust/). Resources developed for Bible translators.
   - [Bible corpus](https://github.com/christos-c/bible-corpus) - A multilingual parallel corpus created from translations of the Bible.
+  - [Zefania Bibles](https://sourceforge.net/projects/zefania-sharp/) - A corpus of 140+ Bibles in 63 languages (and some English/German resources such as concordances). The Bibles are formatted in "Zefania XML". Some include strongs tagging.
 
 #### Original Languages
 

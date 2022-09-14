@@ -18,6 +18,7 @@ Biblical data including translations, tagged original language texts, second tem
   - [Qumran/Rabbinic](#qumranrabbinic)
   - [Early Church](#early-church)
 - [Dictionaries](#dictionaries)
+  - [Other Language Dictionaries](#other-languages-dictionaries)
 - [Cross References](#cross-references)
 
 ## Data
@@ -80,9 +81,14 @@ Biblical data including translations, tagged original language texts, second tem
 ### Dictionaries
 
 - [Strongs](https://github.com/openscriptures/strongs) (OT + NT)
+- [Koine Greek English Dictionary](https://github.com/biblical-text/koine-greek-english-dictionary) CC0. Updated Strongs (likely only NT Greek).
 - [BDB](https://github.com/openscriptures/HebrewLexicon) (OT)
 - [Abbott-Smith](https://github.com/translatable-exegetical-tools/Abbott-Smith) (NT)
 - [Jeffrey Dodson's Greek Lexicon](https://github.com/biblicalhumanities/Dodson-Greek-Lexicon) (NT)
+
+#### Other Language Dictionaries
+
+- [Koine Greek to Chinese Dictionary](https://github.com/biblical-text/koine-greek-chinese-dictionary) CC0. Apparently a conversion of the "Koine Greek English Dictionary" to Chinese. Because it's strongs based, likely only NT Greek. "This dictionary contains Chinese glosses where a gloss is available from the biblical text database."
 
 ### Cross References
 

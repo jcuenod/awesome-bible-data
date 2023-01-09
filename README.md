@@ -45,11 +45,12 @@ Biblical data including translations, tagged original language texts, second tem
 
   **LXX**
   - [CCAT LXX](https://github.com/orenfromberg/lxxproject) in sqlite [🏷️](## "Morphologically Tagged")
-  - [STEPBible Data](https://github.com/STEPBible/STEPBible-Data) [🏷️](## "Morphologically Tagged") - one of the most developed datasets
+  - [STEPBible Data](https://github.com/STEPBible/STEPBible-Data) [🏷️](## "Morphologically Tagged") - Appears to only be available upon request
   - [Swete's LXX](https://github.com/sleeptillseven/LXX-Swete/) Text from 1KY corrected [🏷️](## "Morphologically Tagged")
   - [LXX Codex Alexandrinus](https://github.com/sleeptillseven/LXX.Alex)
 
   **NT**
+  - [SBLGNT](https://github.com/LogosBible/SBLGNT) - Source data for the SBL GNT published by Logos.
   - [SBLGNT Tagged by MorphGNT](https://github.com/morphgnt/sblgnt) [🏷️](## "Morphologically Tagged")
   - [Byzantine Majority Text](https://github.com/byztxt/byzantine-majority-text) [🏷️](## "Morphologically Tagged")
   - [NA1904 Tagged by MorphGNT](https://github.com/biblicalhumanities/Nestle1904/) [🏷️](## "Morphologically Tagged")

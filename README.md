@@ -17,6 +17,7 @@ Biblical data including translations, tagged original language texts, second tem
   - [Deuterocanonical](#deuterocanonical)
   - [Qumran/Rabbinic](#qumranrabbinic)
   - [Early Church](#early-church)
+- [Versification Mappings](#versification-mappings)
 - [Dictionaries](#dictionaries)
   - [Other Language Dictionaries](#other-languages-dictionaries)
 - [Cross References](#cross-references)
@@ -79,6 +80,11 @@ Biblical data including translations, tagged original language texts, second tem
   - (Greek) [Clement of Alexandria](https://github.com/Mallioch/clement-of-alexandria-texts)
   - (English) [Ante- and Post-Nicene Fathers](https://github.com/gregorycrane/nicenefathers) (TEI XML)
   - (Greek) [Patristics](https://github.com/pthu/patristics) (TextFabric)
+
+### Versification Mappings
+ - [CCEL Reference Mappings](https://github.com/adamb924/references-in-sqlite) - Converted to sqlite. Note, the original mappings are no longer at the CCEL URL.
+ - [Copenhagen Alliance Versification Mappings](https://github.com/Copenhagen-Alliance/copenhagen-alliance.github.io/tree/master/specifications/versification)
+ - [STEPBible TVTMS](https://github.com/STEPBible/STEPBible-Data) - Translators Versification Traditions with Methodology for Standardisation
 
 ### Dictionaries
 

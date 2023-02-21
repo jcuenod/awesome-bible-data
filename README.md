@@ -57,7 +57,7 @@ Biblical data including translations, tagged original language texts, second tem
   - [NA1904 Tagged by MorphGNT](https://github.com/biblicalhumanities/Nestle1904/) [🏷️](## "Morphologically Tagged")
   - [Macula Greek](https://github.com/Clear-Bible/macula-greek) [🌲](## "Syntax Trees") [🏷️](## "Morphologically Tagged") - One of the most developed datasets. Combines multiple sources, with clear provenance!
   - [STEPBible Data](https://github.com/STEPBible/STEPBible-Data) [🏷️](## "Morphologically Tagged") - One of the most developed datasets!
-  - [Bunning Heuristic Prototype Greek New Testament](https://github.com/greekcntr/BHP)  [🏷️](## "Morphologically Tagged") - An approach to construct a critical NT based on the earliest evidence (?)
+  - [Statistical Restoration GNT](https://github.com/Center-for-New-Testament-Restoration/SR)  [🏷️](## "Morphologically Tagged") - An approach to construct a critical NT based on the earliest evidence (was Bunning Heuristic Prototype GNT)
   - [Syriac New Testament](https://github.com/etcbc/syrnt) (TextFabric)
   - [Levinsohn's Greek New Testament Discourse Features](https://github.com/biblicalhumanities/levinsohn) [💬](## "Discourse Analysis")
   - [PROIEL Treebanks](https://github.com/proiel/proiel-treebank) (GNT, Vulgate, other NTs + more) [🌲](## "Syntax Trees")

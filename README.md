@@ -28,13 +28,13 @@ Biblical data including translations, tagged original language texts, second tem
 
 #### Translations
 
+  - [Aligned Bible Texts](https://github.com/Clear-Bible/Alignments), automatic and/or manually corrected.
   - [Bible corpus](https://github.com/christos-c/bible-corpus) - A multilingual parallel corpus created from translations of the Bible.
   - [Gratis Bible](https://github.com/gratis-bible/bible) (OSIS XML)
   - [Open English Bible](https://github.com/openenglishbible/Open-English-Bible) - A CC0 Bible translation.
   - [Parallel corpora from eBible.org](https://github.com/BibleNLP/ebible-corpus) (Verse per line txt). [source](https://eBible.org). - Made for use with NLP, not ideal for finding book/ch/v divisions.
   - [Unfolding Word Translations](https://git.door43.org/unfoldingWord/) - See esp. their [Literal Translation](https://git.door43.org/unfoldingWord/en_ult/), [Simplified Translation](https://git.door43.org/unfoldingWord/en_ust/). Resources developed for Bible translators.
   - [Zefania Bibles](https://sourceforge.net/projects/zefania-sharp/) - A corpus of 140+ Bibles in 63 languages (and some English/German resources such as concordances). The Bibles are formatted in "Zefania XML". Some include strongs tagging.
-  - [Aligned Bible Texts](https://github.com/Clear-Bible/Alignments), automatic and/or manually corrected.
 
 #### Original Languages
 
@@ -43,8 +43,8 @@ Biblical data including translations, tagged original language texts, second tem
   - [Macula Hebrew](https://github.com/Clear-Bible/macula-hebrew/) [🌲](## "Syntax Trees") - One of the most developed datasets. Combines multiple sources, with clear provenance!
   - [MorphHB](https://github.com/openscriptures/morphhb/) [🏷️](## "Morphologically Tagged") - Crowd sourced tagging of the OT
   - [Peshitta](https://github.com/ETCBC/peshitta) (TextFabric)
-  - [STEPBible Data](https://github.com/STEPBible/STEPBible-Data) [🏷️](## "Morphologically Tagged") - One of the most developed datasets
   - [Speaker Quotations](https://github.com/Clear-Bible/speaker-quotations) for the whole Bible in various translations and the original languages. [💬](## "Discourse Analysis")
+  - [STEPBible Data](https://github.com/STEPBible/STEPBible-Data) [🏷️](## "Morphologically Tagged") - One of the most developed datasets
 
   **LXX**
   - [CCAT LXX](https://github.com/orenfromberg/lxxproject) in sqlite [🏷️](## "Morphologically Tagged")
@@ -59,12 +59,12 @@ Biblical data including translations, tagged original language texts, second tem
   - [Levinsohn's Greek New Testament Discourse Features](https://github.com/biblicalhumanities/levinsohn) [💬](## "Discourse Analysis")
   - [Macula Greek](https://github.com/Clear-Bible/macula-greek) [🌲](## "Syntax Trees") [🏷️](## "Morphologically Tagged") - One of the most developed datasets. Combines multiple sources, with clear provenance!
   - [NA1904 Tagged by MorphGNT](https://github.com/biblicalhumanities/Nestle1904/) [🏷️](## "Morphologically Tagged")
+  - [OpenText Context Annotations](https://github.com/OpenText-org/context-annotation) extracted from forthcoming OpenText 2.0 syntax data, these include pericopes, speaker turns (maps to Speaker Quotations dataset above), moves within turns, and tokens/expressions for mapping to other datasets. [💬](## "Discourse Analysis")[🌲](## "Syntax Trees")
   - [PROIEL Treebanks](https://github.com/proiel/proiel-treebank) (GNT, Vulgate, other NTs + more) [🌲](## "Syntax Trees")
   - [SBLGNT and Nestle1904](https://github.com/biblicalhumanities/greek-new-testament) with syntax trees by the Global Bible Initiative [🌲](## "Syntax Trees") [🏷️](## "Morphologically Tagged")
   - [Statistical Restoration GNT](https://github.com/Center-for-New-Testament-Restoration/SR)  [🏷️](## "Morphologically Tagged") - An approach to construct a critical NT based on the earliest evidence (was Bunning Heuristic Prototype GNT)
   - [STEPBible Data](https://github.com/STEPBible/STEPBible-Data) [🏷️](## "Morphologically Tagged") - One of the most developed datasets!
   - [Syriac New Testament](https://github.com/etcbc/syrnt) (TextFabric)
-  - [OpenText Context Annotations](https://github.com/OpenText-org/context-annotation) extracted from forthcoming OpenText 2.0 syntax data, these include pericopes, speaker turns (maps to Speaker Quotations dataset above), moves within turns, and tokens/expressions for mapping to other datasets. [💬](## "Discourse Analysis")[🌲](## "Syntax Trees")
 
 ### Non-Canonical
 #### Deuterocanonical

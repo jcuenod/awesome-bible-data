@@ -34,6 +34,7 @@ Biblical data including translations, tagged original language texts, second tem
   - [Parallel corpora from eBible.org](https://github.com/BibleNLP/ebible-corpus) (Verse per line txt). [source](https://eBible.org). - Made for use with NLP, not ideal for finding book/ch/v divisions.
   - [Unfolding Word Translations](https://git.door43.org/unfoldingWord/) - See esp. their [Literal Translation](https://git.door43.org/unfoldingWord/en_ult/), [Simplified Translation](https://git.door43.org/unfoldingWord/en_ust/). Resources developed for Bible translators.
   - [Zefania Bibles](https://sourceforge.net/projects/zefania-sharp/) - A corpus of 140+ Bibles in 63 languages (and some English/German resources such as concordances). The Bibles are formatted in "Zefania XML". Some include strongs tagging.
+  - [Aligned Bible Texts](https://github.com/Clear-Bible/Alignments), automatic and/or manually corrected.
 
 #### Original Languages
 
@@ -43,6 +44,7 @@ Biblical data including translations, tagged original language texts, second tem
   - [MorphHB](https://github.com/openscriptures/morphhb/) [🏷️](## "Morphologically Tagged") - Crowd sourced tagging of the OT
   - [Peshitta](https://github.com/ETCBC/peshitta) (TextFabric)
   - [STEPBible Data](https://github.com/STEPBible/STEPBible-Data) [🏷️](## "Morphologically Tagged") - One of the most developed datasets
+  - [Speaker Quotations](https://github.com/Clear-Bible/speaker-quotations) for the whole Bible in various translations and the original languages. [💬](## "Discourse Analysis")
 
   **LXX**
   - [CCAT LXX](https://github.com/orenfromberg/lxxproject) in sqlite [🏷️](## "Morphologically Tagged")
@@ -62,6 +64,7 @@ Biblical data including translations, tagged original language texts, second tem
   - [Statistical Restoration GNT](https://github.com/Center-for-New-Testament-Restoration/SR)  [🏷️](## "Morphologically Tagged") - An approach to construct a critical NT based on the earliest evidence (was Bunning Heuristic Prototype GNT)
   - [STEPBible Data](https://github.com/STEPBible/STEPBible-Data) [🏷️](## "Morphologically Tagged") - One of the most developed datasets!
   - [Syriac New Testament](https://github.com/etcbc/syrnt) (TextFabric)
+  - [OpenText Context Annotations](https://github.com/OpenText-org/context-annotation) extracted from forthcoming OpenText 2.0 syntax data, these include pericopes, speaker turns (maps to Speaker Quotations dataset above), moves within turns, and tokens/expressions for mapping to other datasets. [💬](## "Discourse Analysis")[🌲](## "Syntax Trees")
 
 ### Non-Canonical
 #### Deuterocanonical

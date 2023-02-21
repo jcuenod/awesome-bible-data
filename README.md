@@ -28,40 +28,40 @@ Biblical data including translations, tagged original language texts, second tem
 
 #### Translations
 
-  - [Parallel corpora from eBible.org](https://github.com/BibleNLP/ebible-corpus) (Verse per line txt). [source](https://eBible.org). - Made for use with NLP, not ideal for finding book/ch/v divisions.
+  - [Bible corpus](https://github.com/christos-c/bible-corpus) - A multilingual parallel corpus created from translations of the Bible.
   - [Gratis Bible](https://github.com/gratis-bible/bible) (OSIS XML)
   - [Open English Bible](https://github.com/openenglishbible/Open-English-Bible) - A CC0 Bible translation.
+  - [Parallel corpora from eBible.org](https://github.com/BibleNLP/ebible-corpus) (Verse per line txt). [source](https://eBible.org). - Made for use with NLP, not ideal for finding book/ch/v divisions.
   - [Unfolding Word Translations](https://git.door43.org/unfoldingWord/) - See esp. their [Literal Translation](https://git.door43.org/unfoldingWord/en_ult/), [Simplified Translation](https://git.door43.org/unfoldingWord/en_ust/). Resources developed for Bible translators.
-  - [Bible corpus](https://github.com/christos-c/bible-corpus) - A multilingual parallel corpus created from translations of the Bible.
   - [Zefania Bibles](https://sourceforge.net/projects/zefania-sharp/) - A corpus of 140+ Bibles in 63 languages (and some English/German resources such as concordances). The Bibles are formatted in "Zefania XML". Some include strongs tagging.
 
 #### Original Languages
 
   **OT**
-  - [MorphHB](https://github.com/openscriptures/morphhb/) [🏷️](## "Morphologically Tagged") - Crowd sourced tagging of the OT
   - [ETCBC BHSa](https://github.com/ETCBC/bhsa) (TextFabric) [🌲](## "Syntax Trees") [🏷️](## "Morphologically Tagged")
   - [Macula Hebrew](https://github.com/Clear-Bible/macula-hebrew/) [🌲](## "Syntax Trees") - One of the most developed datasets. Combines multiple sources, with clear provenance!
-  - [STEPBible Data](https://github.com/STEPBible/STEPBible-Data) [🏷️](## "Morphologically Tagged") - One of the most developed datasets
+  - [MorphHB](https://github.com/openscriptures/morphhb/) [🏷️](## "Morphologically Tagged") - Crowd sourced tagging of the OT
   - [Peshitta](https://github.com/ETCBC/peshitta) (TextFabric)
+  - [STEPBible Data](https://github.com/STEPBible/STEPBible-Data) [🏷️](## "Morphologically Tagged") - One of the most developed datasets
 
   **LXX**
   - [CCAT LXX](https://github.com/orenfromberg/lxxproject) in sqlite [🏷️](## "Morphologically Tagged")
+  - [LXX Codex Alexandrinus](https://github.com/sleeptillseven/LXX.Alex)
   - [STEPBible Data](https://github.com/STEPBible/STEPBible-Data) [🏷️](## "Morphologically Tagged") - Appears to only be available upon request
   - [Swete's LXX](https://github.com/sleeptillseven/LXX-Swete/) Text from 1KY corrected [🏷️](## "Morphologically Tagged")
-  - [LXX Codex Alexandrinus](https://github.com/sleeptillseven/LXX.Alex)
 
   **NT**
+  - [Byzantine Majority Text](https://github.com/byztxt/byzantine-majority-text) [🏷️](## "Morphologically Tagged")
   - [SBLGNT](https://github.com/LogosBible/SBLGNT) - Source data for the SBL GNT published by Logos.
   - [SBLGNT Tagged by MorphGNT](https://github.com/morphgnt/sblgnt) [🏷️](## "Morphologically Tagged")
-  - [Byzantine Majority Text](https://github.com/byztxt/byzantine-majority-text) [🏷️](## "Morphologically Tagged")
-  - [NA1904 Tagged by MorphGNT](https://github.com/biblicalhumanities/Nestle1904/) [🏷️](## "Morphologically Tagged")
-  - [Macula Greek](https://github.com/Clear-Bible/macula-greek) [🌲](## "Syntax Trees") [🏷️](## "Morphologically Tagged") - One of the most developed datasets. Combines multiple sources, with clear provenance!
-  - [STEPBible Data](https://github.com/STEPBible/STEPBible-Data) [🏷️](## "Morphologically Tagged") - One of the most developed datasets!
-  - [Statistical Restoration GNT](https://github.com/Center-for-New-Testament-Restoration/SR)  [🏷️](## "Morphologically Tagged") - An approach to construct a critical NT based on the earliest evidence (was Bunning Heuristic Prototype GNT)
-  - [Syriac New Testament](https://github.com/etcbc/syrnt) (TextFabric)
   - [Levinsohn's Greek New Testament Discourse Features](https://github.com/biblicalhumanities/levinsohn) [💬](## "Discourse Analysis")
+  - [Macula Greek](https://github.com/Clear-Bible/macula-greek) [🌲](## "Syntax Trees") [🏷️](## "Morphologically Tagged") - One of the most developed datasets. Combines multiple sources, with clear provenance!
+  - [NA1904 Tagged by MorphGNT](https://github.com/biblicalhumanities/Nestle1904/) [🏷️](## "Morphologically Tagged")
   - [PROIEL Treebanks](https://github.com/proiel/proiel-treebank) (GNT, Vulgate, other NTs + more) [🌲](## "Syntax Trees")
   - [SBLGNT and Nestle1904](https://github.com/biblicalhumanities/greek-new-testament) with syntax trees by the Global Bible Initiative [🌲](## "Syntax Trees") [🏷️](## "Morphologically Tagged")
+  - [Statistical Restoration GNT](https://github.com/Center-for-New-Testament-Restoration/SR)  [🏷️](## "Morphologically Tagged") - An approach to construct a critical NT based on the earliest evidence (was Bunning Heuristic Prototype GNT)
+  - [STEPBible Data](https://github.com/STEPBible/STEPBible-Data) [🏷️](## "Morphologically Tagged") - One of the most developed datasets!
+  - [Syriac New Testament](https://github.com/etcbc/syrnt) (TextFabric)
 
 ### Non-Canonical
 #### Deuterocanonical
@@ -75,10 +75,10 @@ Biblical data including translations, tagged original language texts, second tem
   - https://github.com/Sefaria/Sefaria-Export
 
 #### Early Church
-  - (Greek) [Apostolic Fathers](https://github.com/jtauber/apostolic-fathers) hand corrected.
-  - (Greek) [Justin Martyr](https://github.com/Mallioch/justin-martyr-texts)
-  - (Greek) [Clement of Alexandria](https://github.com/Mallioch/clement-of-alexandria-texts)
   - (English) [Ante- and Post-Nicene Fathers](https://github.com/gregorycrane/nicenefathers) (TEI XML)
+  - (Greek) [Apostolic Fathers](https://github.com/jtauber/apostolic-fathers) hand corrected.
+  - (Greek) [Clement of Alexandria](https://github.com/Mallioch/clement-of-alexandria-texts)
+  - (Greek) [Justin Martyr](https://github.com/Mallioch/justin-martyr-texts)
   - (Greek) [Patristics](https://github.com/pthu/patristics) (TextFabric)
 
 ### Versification Mappings
@@ -88,11 +88,11 @@ Biblical data including translations, tagged original language texts, second tem
 
 ### Dictionaries
 
-- [Strongs](https://github.com/openscriptures/strongs) (OT + NT)
-- [Koine Greek English Dictionary](https://github.com/biblical-text/koine-greek-english-dictionary) CC0. Updated Strongs (likely only NT Greek).
-- [BDB](https://github.com/openscriptures/HebrewLexicon) (OT)
 - [Abbott-Smith](https://github.com/translatable-exegetical-tools/Abbott-Smith) (NT)
+- [BDB](https://github.com/openscriptures/HebrewLexicon) (OT)
 - [Jeffrey Dodson's Greek Lexicon](https://github.com/biblicalhumanities/Dodson-Greek-Lexicon) (NT)
+- [Koine Greek English Dictionary](https://github.com/biblical-text/koine-greek-english-dictionary) CC0. Updated Strongs (likely only NT Greek).
+- [Strongs](https://github.com/openscriptures/strongs) (OT + NT)
 
 #### Other Language Dictionaries
 

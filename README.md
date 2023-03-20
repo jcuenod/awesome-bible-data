@@ -40,6 +40,7 @@ Biblical data including translations, tagged original language texts, second tem
 
   **OT**
   - [ETCBC BHSa](https://github.com/ETCBC/bhsa) (TextFabric) [🌲](## "Syntax Trees") [🏷️](## "Morphologically Tagged")
+  - [ETCBC BHSa - Hierarchical XML format](https://github.com/ryderwishart/hebrew-syntax-trees) [🌲](## "Syntax Trees") [🏷️](## "Morphologically Tagged") - For those who prefer XML to TextFabric, in canonical and reordered versions
   - [Macula Hebrew](https://github.com/Clear-Bible/macula-hebrew/) [🌲](## "Syntax Trees") - One of the most developed datasets. Combines multiple sources, with clear provenance!
   - [MorphHB](https://github.com/openscriptures/morphhb/) [🏷️](## "Morphologically Tagged") - Crowd sourced tagging of the OT
   - [Peshitta](https://github.com/ETCBC/peshitta) (TextFabric)

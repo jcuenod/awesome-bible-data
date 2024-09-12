@@ -96,6 +96,7 @@ Biblical data including translations, tagged original language texts, second tem
 - [BDB](https://github.com/openscriptures/HebrewLexicon) (OT)
 - [Jeffrey Dodson's Greek Lexicon](https://github.com/biblicalhumanities/Dodson-Greek-Lexicon) (NT)
 - [Koine Greek English Dictionary](https://github.com/biblical-text/koine-greek-english-dictionary) CC0. Updated Strongs (likely only NT Greek).
+- [UBS Dictionary of Biblical Hebrew & Greek](https://github.com/ubsicap/ubs-open-license/tree/main/dictionaries) CC-BY-SA. Extracted from the SDBH and SDGNT.
 - [Strongs](https://github.com/openscriptures/strongs) (OT + NT)
 
 #### Other Language Dictionaries

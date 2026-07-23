@@ -85,6 +85,10 @@ Biblical data including translations, tagged original language texts, second tem
   - (Greek) [Justin Martyr](https://github.com/Mallioch/justin-martyr-texts)
   - (Greek) [Patristics](https://github.com/pthu/patristics) (TextFabric)
 
+### Topical Annotations
+
+- [KJV–RV1909 Life Situations Dataset](https://bibleverse-generator.org/datasets/life-situations) - Versioned EN/ES dataset of 360 Scripture topic-membership records (180 paired memberships) across ten life-situation topics, with JSON/CSV, JSON Schema, methodology, separated source-edition and CC BY 4.0 dataset license notes, and SHA-256 checksums. The 36 explanatory annotations are provisional and not human-reviewed.
+
 ### Versification Mappings
  - [CCEL Reference Mappings](https://github.com/adamb924/references-in-sqlite) - Converted to sqlite. Note, the original mappings are no longer at the CCEL URL.
  - [Copenhagen Alliance Versification Mappings](https://github.com/Copenhagen-Alliance/copenhagen-alliance.github.io/tree/master/specifications/versification)

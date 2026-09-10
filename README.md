@@ -110,8 +110,6 @@ Biblical data including translations, tagged original language texts, second tem
 - https://github.com/josephilipraja/bible-cross-reference-json
 - https://github.com/SuzanaK/bible_cross_references
 
-
 ## Timelines
 
-- [Bible Timelines Data](https://github.com/pulse38echo/bible-timelines-data) - CC0. 315 events and 1,245 chapter-and-verse references across seven historical timelines (Old Testament, life of Jesus harmonized across the four Gospels, Luke, Paul with letters placed where written, the Twelve Apostles, formation of the New Testament canon, the ante-Nicene 
-- 
+- [Bible Timelines Data](https://github.com/pulse38echo/bible-timelines-data) - CC0. 315 events and 1,245 chapter-and-verse references across seven historical timelines (Old Testament, life of Jesus harmonized across the four Gospels, Luke, Paul with letters placed where written, the Twelve Apostles, formation of the New Testament canon, the ante-Nicene church), plus an index to all 150 Psalms. JSON, schema documented in the README.

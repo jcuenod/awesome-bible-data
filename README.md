@@ -95,6 +95,7 @@ Biblical data including translations, tagged original language texts, second tem
 - [Abbott-Smith](https://github.com/translatable-exegetical-tools/Abbott-Smith) (NT)
 - [BDB](https://github.com/openscriptures/HebrewLexicon) (OT)
 - [Jeffrey Dodson's Greek Lexicon](https://github.com/biblicalhumanities/Dodson-Greek-Lexicon) (NT)
+- [KJV Archaic Words](https://github.com/fozzy76/kjv-archaic-words) CC-BY. 117 English definitions of archaic words in the KJV, 27 flagged as false friends (modern words whose sense has shifted). Selection ranked by frequency in the text.
 - [Koine Greek English Dictionary](https://github.com/biblical-text/koine-greek-english-dictionary) CC0. Updated Strongs (likely only NT Greek).
 - [UBS Dictionary of Biblical Hebrew & Greek](https://github.com/ubsicap/ubs-open-license/tree/main/dictionaries) CC-BY-SA. Extracted from the SDBH and SDGNT.
 - [Strongs](https://github.com/openscriptures/strongs) (OT + NT)

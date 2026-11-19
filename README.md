@@ -105,6 +105,8 @@ Biblical data including translations, tagged original language texts, second tem
 
 ### Cross References
 
+- [Treasury of Scripture Knowledge](https://github.com/ariseshinestudio/TSK) - JustVerses transcription with KJV phrase anchors and reference lists in TSV.
+- [OpenBible.info Cross References](https://www.openbible.info/labs/cross-references/) - Downloadable verse-to-verse references with community votes; references overlap with TSK.
 - https://github.com/balinjdl/OT-NT-Reference-Map
 - https://github.com/josephilipraja/bible-cross-reference-json
 - https://github.com/SuzanaK/bible_cross_references

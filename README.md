@@ -106,7 +106,7 @@ Biblical data including translations, tagged original language texts, second tem
 ### Cross References
 
 - [Treasury of Scripture Knowledge](https://github.com/ariseshinestudio/TSK) - JustVerses transcription with KJV phrase anchors and reference lists in TSV.
-- [OpenBible.info Cross References](https://www.openbible.info/labs/cross-references/) - Downloadable verse-to-verse references with community votes; references overlap with TSK.
-- https://github.com/balinjdl/OT-NT-Reference-Map
-- https://github.com/josephilipraja/bible-cross-reference-json
-- https://github.com/SuzanaK/bible_cross_references
+- [OpenBible.info Cross References](https://www.openbible.info/labs/cross-references/) - Downloadable verse-to-verse references with community votes, largely based on TSK.
+- [OT/NT Reference Map](https://github.com/balinjdl/OT-NT-Reference-Map) - Interactive, chapter-level map of Old Testament quotations, allusions, and possible allusions in the New Testament, using data from mb-soft.com. Its links overlap with verse-level datasets when projected to chapters.
+- [Bible Cross-Reference JSON](https://github.com/josephilipraja/bible-cross-reference-json) - KJV verse-pair JSON credited to SoulLiberty; its references are TSK-derived and substantially overlap with the TSK and OpenBible datasets above.
+- [Bible Cross References](https://github.com/SuzanaK/bible_cross_references) - Per-verse references from the original New World Translation (not the 2014 revision), plus a 66-by-66 book-level count matrix. A separate source, with substantial verse-pair overlap with TSK and OpenBible.

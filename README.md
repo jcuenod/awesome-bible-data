@@ -21,6 +21,8 @@ Biblical data including translations, tagged original language texts, second tem
 - [Dictionaries](#dictionaries)
   - [Other Language Dictionaries](#other-languages-dictionaries)
 - [Cross References](#cross-references)
+- [Places](#places)
+- [Topics](#topics)
 
 ## Data
 
@@ -110,3 +112,11 @@ Biblical data including translations, tagged original language texts, second tem
 - [OT/NT Reference Map](https://github.com/balinjdl/OT-NT-Reference-Map) - Interactive, chapter-level map of Old Testament quotations, allusions, and possible allusions in the New Testament, using data from mb-soft.com. Its links overlap with verse-level datasets when projected to chapters.
 - [Bible Cross-Reference JSON](https://github.com/josephilipraja/bible-cross-reference-json) - KJV verse-pair JSON credited to SoulLiberty; its references are TSK-derived and substantially overlap with the TSK and OpenBible datasets above.
 - [Bible Cross References](https://github.com/SuzanaK/bible_cross_references) - Per-verse references from the original New World Translation (not the 2014 revision), plus a 66-by-66 book-level count matrix. A separate source, with substantial verse-pair overlap with TSK and OpenBible.
+
+### Places
+
+- [Bible places](https://github.com/christianpure/bible-data/tree/main/bible-places) CC BY 4.0. 1,246 places from Genesis to Revelation with coordinates, how sure each site is, and their names in 11 languages; built on OpenBible.info's geocoding.
+
+### Topics
+
+- [Topical Bible](https://github.com/christianpure/bible-data/tree/main/topical-bible) CC BY 4.0. Over 6,500 subjects and their verse references (no text), from OpenBible.info's Topical Bible and Christian Pure's pages.
